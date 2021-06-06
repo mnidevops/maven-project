@@ -16,7 +16,7 @@
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     <sonar.host.url>http://13.233.154.222:9000/</sonar.host.url>
     <sonar.login>3582e6f3257df830769dada5b4066b561cf6f345</sonar.login>
-  </properties>
+   </properties>
 
   <modules>
     <module>server</module>
